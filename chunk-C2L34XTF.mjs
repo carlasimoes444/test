@@ -1,0 +1,2 @@
+var e=t=>({description:"Blowfish makes it easy to identify & stop fraud before it happens. Join the leading wallets protecting their users funds with the blowfish security engine",favicon:new URL("https://framerusercontent.com/images/xnDFrL0eX6wBbZyxmvGgu0KjRjc.png").href,socialImage:new URL("https://framerusercontent.com/images/LMkkyrT6aZKMqZNobSZKDY8lnM.jpg").href,title:"Blowfish - Proactive defense for web3 wallets"}),o=e;export{o as a};
+//# sourceMappingURL=chunk-C2L34XTF.mjs.map
